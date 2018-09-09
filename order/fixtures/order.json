@@ -1,0 +1,26 @@
+[
+    {
+        "model": "order.order",
+        "pk": 1,
+        "fields": {
+            "first_name": "Phong",
+            "last_name": "Pham",
+            "email": "phongpham1342@hotmail.com",
+            "dumpling_type": "Chicken",
+            "quantity": 20,
+            "special_instructions": "make it with love"
+        }
+    },
+    {
+        "model": "order.order",
+        "pk": 2,
+        "fields": {
+            "first_name": "Michelle",
+            "last_name": "Nguyen",
+            "email": "geegeebaby@live.ca",
+            "dumpling_type": "Pork",
+            "quantity": 50,
+            "special_instructions": "make it with respect"
+        }
+    }
+]

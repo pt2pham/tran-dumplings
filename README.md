@@ -1,2 +1,4 @@
 # tran-dumplings
-A dumpling selling website with an API built with Django
+The backend for Mama Tran's Dumplings!
+
+This API is built with the Django REST Framework
